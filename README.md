@@ -1,97 +1,18 @@
-<div  align="center">
+<h1 align="center">Hi 👋, I'm Oliver Zenger</h1>
+<h3 align="center">A developer from Switzerland</h3>
 
-<img  height="250"  src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif"  />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olisebz&label=Profile%20views&color=0e75b6&style=flat" alt="olisebz" /> </p>
 
-</div>
+- 🌱 I’m currently learning **Java**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oliver zenger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliver zenger" height="30" width="40" /></a>
+</p>
 
-<div  align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<a  href="https://www.linkedin.com/in/oliver-z-4917a725a/"  target="_blank">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olisebz&show_icons=true&locale=en&layout=compact" alt="olisebz" /></p>
 
-<img  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="25"  alt="linkedin logo"  />
-
-</a>
-
-<a  href="https://twitter.com/olisebz06"  target="_blank">
-
-<img  src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="25"  alt="twitter logo"  />
-
-</a>
-
-<a  href="https://www.instagram.com/olisebz/"  target="_blank">
-
-<img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="25"  alt="instagram logo"  /></a>
-
-</div>
-
-###
-
-<h1  align="center">hey there 👋</h1>
-
-###
-
-<div  align="center">
-
-<img  src="https://profile-counter.glitch.me/olisebz/count.svg?"  />
-
-</div>
-
-###
-
-<h3  align="left">👩‍💻 About Me</h3>
-
-###
-
-<p  align="left">I'm Oliver from Switzerland<br><br>- 🔭 I’m working as an Application Developer<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I do Homework</p>
-
-###
-
-<h3  align="left">🛠 Language and tools</h3>
-
-###
-
-<div  align="left">
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  height="40"  width="52"  alt="html5 logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="40"  width="52"  alt="css3 logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  height="40"  width="52"  alt="java logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="40"  width="52"  alt="mysql logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"  height="40"  width="52"  alt="docker logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  height="40"  width="52"  alt="bootstrap logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  height="40"  width="52"  alt="spring logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  height="40"  width="52"  alt="jira logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  height="40"  width="52"  alt="vscode logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  height="40"  width="52"  alt="intellij logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  height="40"  width="52"  alt="apple logo"  />
-
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"  height="40"  width="52"  alt="windows8 logo"  />
-
-</div>
-
-###
-
-<h3  align="left">🔥 My Stats :</h3>
-
-###
-
-<div  align="center">
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=olisebz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2"  height="134"  alt="languages graph"  />
-
-<img  src="https://streak-stats.demolab.com?user=olisebz&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3"  height="188"  alt="streak graph"  />
-
-<img  src="https://github-readme-stats.vercel.app/api?username=olisebz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1"  height="200"  alt="stats graph"  />
-
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olisebz&show_icons=true&locale=en" alt="olisebz" /></p>
