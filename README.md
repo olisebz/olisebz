@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋 I'm Oliver</h1>
 <h3 align="center">I have been doing an apprenticeship as an application developer since 2022.</h3>
 
-- 🚀 I’m currently working on [react-personal](https://github.com/olisebz/react-personal)
+- 🚀 I’m currently working on [nothing]()
 - 🌱 I’m deepening my knowledge in **Angular, React.js, Python**
 - ⚡ Fun fact: **The More I Code, The More I Know!**
 
